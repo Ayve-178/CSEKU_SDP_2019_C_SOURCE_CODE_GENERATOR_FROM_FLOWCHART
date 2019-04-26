@@ -13,4 +13,4 @@ Project Desciption : We made an application that will generate C source code fro
 
 Youtube Link: https://youtu.be/GpPEYOHIlRU
 
-project link: https://drive.google.com/file/d/1ay4PEjFznRH3Kx_mxlyOcl0iBUTwzMI_/view?usp=sharing
+project link: https://github.com/Ayve-178/CSEKU_SDP_2019_C_SOURCE_CODE_GENERATOR_FROM_FLOWCHART
